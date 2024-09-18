@@ -1,7 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
 <h3>Name:SANGAVI SURESH</h3>
-<h3>Register Number/Staff Id: 212222230130</h3>
-
+<h3>Register Number: 212222230130</h3>
 
 <h3>AIM:</h3>
 <br>
@@ -40,7 +39,8 @@
 <p>Treat unhealthy patients in each room. And check for the unhealthy patients in random room</p>
 <h3>STEP 5:</h3>
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
-## PROGRAM
+
+## PROGRAM:
 ```
 import random
 import time
@@ -204,6 +204,14 @@ if __name__ == "__main__":
     print("Final Status:", environment.status)
     print("Agent Performance:", agent.performance)
 
+
 ```
-## OUTPUT
-![image](https://github.com/user-attachments/assets/a2f811ed-205d-4e64-9ceb-4cb1c3346919)
+
+## OUTPUT:
+
+![11](https://github.com/user-attachments/assets/2de310cd-b220-4644-b741-2f97d62c0dbd)
+
+
+## RESULT:
+
+Thus, an AI agent is developed.
